@@ -1,0 +1,2 @@
+# COVID-19-Data-Analysis-and-Correlation-with-World-Happiness-Report
+This project analyzes the spread of COVID-19 worldwide using a dataset of confirmed cases. It examines trends, calculates infection rates, and visualizes data. Additionally, it integrates data from the World Happiness Report to explore correlations between infection rates and socioeconomic factors like GDP, social support, and life expectancy.
